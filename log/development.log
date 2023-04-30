@@ -1,0 +1,630 @@
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:26:48 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 5.4ms | Allocations: 420)
+  Rendered layout layouts/application.html.erb (Duration: 1849.7ms | Allocations: 107417)
+Completed 200 OK in 1895ms (Views: 1862.6ms | ActiveRecord: 0.0ms | Allocations: 113498)
+
+
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:27:29 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 14.3ms | Allocations: 2462)
+Completed 200 OK in 17ms (Views: 16.6ms | ActiveRecord: 0.0ms | Allocations: 2711)
+
+
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:29:27 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 2.0ms | Allocations: 119)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 2848)
+Completed 200 OK in 26ms (Views: 23.7ms | ActiveRecord: 0.0ms | Allocations: 3730)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-29 16:29:27 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:29:44 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 12.2ms | Allocations: 112)
+  Rendered layout layouts/application.html.erb (Duration: 47.8ms | Allocations: 2906)
+Completed 200 OK in 63ms (Views: 58.5ms | ActiveRecord: 0.0ms | Allocations: 3794)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-29 16:29:44 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:30:51 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 3.4ms | Allocations: 112)
+  Rendered layout layouts/application.html.erb (Duration: 29.2ms | Allocations: 4628)
+Completed 200 OK in 38ms (Views: 36.0ms | ActiveRecord: 0.0ms | Allocations: 5515)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-29 16:30:52 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-29 16:30:52 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/header-bg.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/microsoft.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/facebook.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/ibm.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/close-icon.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/map-image.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/google.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/microsoft.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/google.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/ibm.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/facebook.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/close-icon.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/microsoft.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/facebook.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/ibm.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/google.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/close-icon.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-29 16:31:16 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  Rendered layout layouts/application.html.erb (Duration: 105.3ms | Allocations: 31287)
+Completed 200 OK in 120ms (Views: 114.7ms | ActiveRecord: 0.0ms | Allocations: 33778)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-29 16:31:16 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-29 16:31:16 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/header-bg.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/microsoft.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/google.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/facebook.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/ibm.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/map-image.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/close-icon.svg"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:24:50 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 8.0ms | Allocations: 313)
+  Rendered layout layouts/application.html.erb (Duration: 362.9ms | Allocations: 43653)
+Completed 200 OK in 415ms (Views: 378.9ms | ActiveRecord: 0.0ms | Allocations: 48553)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:24:51 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/navbar-logo.svg"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:24:51 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/header-bg.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/6.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/portfolio/5.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/about/4.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/1.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/3.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/microsoft.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/google.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/team/2.jpg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/ibm.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/close-icon.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/logos/facebook.svg"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/img/map-image.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:26:42 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 20.3ms | Allocations: 2416)
+Completed 200 OK in 26ms (Views: 24.3ms | ActiveRecord: 0.0ms | Allocations: 2666)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:26:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:26:42 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:46:40 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 8.3ms | Allocations: 112)
+  Rendered layout layouts/application.html.erb (Duration: 39.8ms | Allocations: 4591)
+Completed 200 OK in 52ms (Views: 49.3ms | Allocations: 5477)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:46:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:46:41 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:47:55 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 112)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 4578)
+Completed 200 OK in 23ms (Views: 22.6ms | Allocations: 5464)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:47:55 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:47:56 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:56:06 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 11.3ms | Allocations: 2417)
+Completed 200 OK in 14ms (Views: 12.9ms | Allocations: 2666)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:56:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:56:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:56:56 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2403)
+Completed 200 OK in 9ms (Views: 8.4ms | Allocations: 2650)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:56:56 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:56:56 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:56:58 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2433)
+Completed 200 OK in 8ms (Views: 7.4ms | Allocations: 2684)
+
+
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:56:58 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:57:00 -0500
+Processing by PanelController#index as HTML
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:57:00 -0500
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 41.9ms | Allocations: 14967)
+Completed 200 OK in 51ms (Views: 45.1ms | Allocations: 15556)
+
+
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:57:54 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2429)
+Completed 200 OK in 12ms (Views: 11.5ms | Allocations: 2677)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:57:54 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:57:54 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:57:55 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 2437)
+Completed 200 OK in 12ms (Views: 10.4ms | Allocations: 2684)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:57:56 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:57:56 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:58:06 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 2437)
+Completed 200 OK in 5ms (Views: 5.0ms | Allocations: 2685)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:58:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:58:06 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 09:59:57 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3.1ms | Allocations: 2423)
+Completed 200 OK in 4ms (Views: 3.5ms | Allocations: 2671)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 09:59:57 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 09:59:57 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
+Started GET "/" for 127.0.0.1 at 2023-04-30 10:11:05 -0500
+Processing by PanelController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering panel/index.html.erb within layouts/application
+  Rendered panel/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 8.7ms | Allocations: 2417)
+Completed 200 OK in 13ms (Views: 12.5ms | Allocations: 2664)
+
+
+Started GET "/css/styles.css" for 127.0.0.1 at 2023-04-30 10:11:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/css/styles.css"):
+  
+Started GET "/js/scripts.js" for 127.0.0.1 at 2023-04-30 10:11:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/js/scripts.js"):
+  
